@@ -22,11 +22,7 @@ To install and run the Hangman game, follow these steps:
     cd my_hangman
     ```
     open your terminal then:
-    "
-    python main.py
-    ---for macOS users-
-    python3 main.py
-    "
+
 
 
 ## ▶️ Usage
@@ -35,6 +31,8 @@ To start the Hangman game, run the following command in your terminal:
 
 ```
 python main.py
+---for macOS users---
+    python3 main.py
 '''
 
 ## 📂 Project Structure
