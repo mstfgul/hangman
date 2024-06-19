@@ -21,7 +21,6 @@ To install and run the Hangman game, follow these steps:
     ```
     cd my_hangman
     ```
-    open your terminal then:
 
 
 
@@ -29,7 +28,7 @@ To install and run the Hangman game, follow these steps:
 
 To start the Hangman game, run the following command in your terminal:
 
-```
+```sh
 python main.py
 ---for macOS users---
     python3 main.py
@@ -54,7 +53,8 @@ hangman
 - `utils/game.py`: Contains the `Hangman` class that implements the game logic.
 - `utils/__init__.py`: An optional file that can include initializations for the utils package.
 
-## 👨‍💻 Contributors
+
+## ''' 👨‍💻 Contributors
 
 - Denis
 - Nicolas
